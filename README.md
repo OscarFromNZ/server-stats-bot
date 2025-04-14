@@ -1,6 +1,7 @@
+![alt text](https://i.imgur.com/iC8Dj0h.png))
+
 # Today in Discord.
  The perfect [server stats bot](https://todayindiscord.xyz). We offer more data than any other statistics bot out there.
-![alt text](https://i.imgur.com/iC8Dj0h.png) "Logo Title Text 1")
 
 https://todayindiscord.xyz
 
