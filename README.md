@@ -12,4 +12,4 @@ Ensure the bot has the permissions necessary to track data.
 
 And sit back! Today in Discord will now watch your server and give you interesting insights into your community.
 
-Run either the /graph or /leaderboard command to see your data or run the /summaries generate command to see an AI overview of everything.
+Run either the `/graph` or `/leaderboard` command to see your data or run the `/summaries generate` command to see an AI overview of everything.
