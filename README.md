@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/iC8Dj0h.png))
+![alt text](https://i.imgur.com/iC8Dj0h.png)
 
 # Today in Discord.
  The perfect [server stats bot](https://todayindiscord.xyz). We offer more data than any other statistics bot out there.
